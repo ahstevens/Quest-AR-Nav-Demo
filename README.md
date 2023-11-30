@@ -9,15 +9,12 @@
     - Android Build Support
     - OpenJDK
     - Android SDK & NDK Tools
-- **Oculus Integration for Unity**
+- **Meta XR All-In-One SDK for Unity**
   - SDK and plugin providing the Meta OVR abstraction layer and Unity helpers to make OpenXR development more streamlined
   - Includes Meta XR Simulator
     - Simulates headsets and mixed reality environments to enable development without a device to test on
     - [Guide for Unity](https://developer.oculus.com/documentation/unity/xrsim-unity)
-  - Two ways to import into Unity
-    - Add package to your account in the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022) and then import via “My Assets” in Package Manager
-    - Download [Unity Package](https://developer.oculus.com/downloads/package/unity-integration/) from Meta and import into Unity project via Assets>Import Package>Custom Package
-    - [More info](https://developer.oculus.com/documentation/unity/unity-import/)
+  - To import into Unity, add the package to your account in the [Unity Asset Store](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657) and then import via “My Assets” in Package Manager
 - **Meta Quest Developer Hub (MQDH)** ([Windows](https://developer.oculus.com/downloads/package/oculus-developer-hub-win/) | [macOS](https://developer.oculus.com/downloads/package/oculus-developer-hub-mac/))
   - Suite of tools for Quest development (performance analysis, headset management, SDKs for Quest features, code samples, local multiplayer, etc.)
   - [More info](https://developer.oculus.com/meta-quest-developer-hub)
