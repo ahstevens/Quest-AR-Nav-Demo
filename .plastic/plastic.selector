@@ -1,4 +1,0 @@
-repository "Quest3PassthroughTest@CCOMVisLab@cloud"
-  path "/"
-    br "/main"
-    co "/main"
