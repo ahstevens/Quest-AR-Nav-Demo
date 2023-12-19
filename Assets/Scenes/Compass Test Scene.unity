@@ -228,7 +228,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 634d44e0c5680aa44b4c97463a34e8d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  compassLineMaterial: {fileID: 10306, guid: 0000000000000000f000000000000000, type: 0}
+  compassLineMaterial: {fileID: 2100000, guid: 2fb26cf900ea7494f93ad51734a84ccb, type: 2}
   compassHeight: 1.5
   compassRadius: 20
   compassElevation: 0.5
